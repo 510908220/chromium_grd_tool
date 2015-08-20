@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block body %}
+<script language="javascript" type="text/javascript">
+
+</script>
+<div id="generated_resources">
+   <table class="table table-bordered">
+   <tr>
+       <th>IDS</th><th>id</th><th>描述</th>
+   </tr>
+    {%for ids in histories%}
+    <tr>
+        <td>{{ids}}
+        <a href="/modify/{{ids}}">修改</a>
+        </td>
+        <td>{{histories[ids]["id"]}}</td>
+        <td>{{histories[ids]["translation_desc"]}}</td>
+    </tr>
+    {%end%}
+</table>
+</div>
+{% end %}

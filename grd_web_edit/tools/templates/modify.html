@@ -1,0 +1,114 @@
+{% extends "base.html" %}
+{% block body %}
+{% autoescape xhtml_escape %},
+<script language="javascript" type="text/javascript">
+    function strToJson(str){
+        var json = eval('(' + str + ')');
+        return json;
+        }
+
+    function search()
+    {
+        var message_name=$('#message_name').val();
+        if(message_name == "")
+        {
+            alert("资源ID不能为空");
+            return ;
+        }
+        $.post("search", { Action: "post", 'message_name': message_name},
+        function (data, textStatus){
+        var json_obj=strToJson(data);
+        $('.message').val(json_obj.message_str);
+        $('.translation').val(json_obj.translation_text);
+               }, "text");
+    }
+       function delete_()
+    {
+        var message_name=$('#message_name').val();
+        if(message_name == "")
+        {
+            alert("资源ID不能为空");
+            return ;
+        }
+        $.post("delete", { Action: "post", 'message_name': message_name},
+        function (data, textStatus){
+        var json_obj=strToJson(data);
+            //ret_info = {"ret":'false', "info":"no such message node"}
+        if(json_obj.ret == 'true'){
+            alert(message_name +":删除成功");
+        }
+        else{
+             alert(json_obj.info);
+        }
+               }, "text");
+    }
+
+        function update()
+    {
+        var message_name=$('#message_name').val();
+        var translation_desc=$('.translation').val();
+
+        if(message_name == "" || translation_desc == "")
+        {
+            alert("资源ID不能为空");
+            return ;
+        }
+        $.post("update", { Action: "post", 'message_name': message_name, "translation_desc":translation_desc},
+        function (data, textStatus){
+        var json_obj=strToJson(data);
+   if(json_obj.ret == 'true'){
+            alert(message_name +":更新成功");
+        }
+        else{
+             alert(json_obj.info);
+        }
+               }, "text");
+    }
+</script>
+<div id="generated_resources">
+         <fieldset>
+      <div id="legend" class="">
+        <legend class="">修改资源</legend>
+      </div>
+
+    <div class="control-group">
+
+          <!-- Search input-->
+
+          <div class="controls">
+             <label class="control-label">  资源  ID:</label>
+            <input type="text" placeholder="如IDS_CHROME_BROWSER_HZZ"  id="message_name" style="width:300px" value="{{message_name}}">
+            <button class="btn btn-primary" onclick="search()">查询</button>
+          </div>
+
+    <div class="control-group">
+          <!-- Textarea -->
+          <label class="control-label">Message节点:</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea type="" class="message" style="margin: 0px; height: 150px; width: 360px;" name="message"> </textarea>
+            </div>
+          </div>
+        </div><div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">中文描述:</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea type="" class="translation" style="margin: 0px; width: 360px; height: 51px;" name="translation"> </textarea>
+            </div>
+          </div>
+        </div>
+
+    <div class="control-group">
+          <br/>
+          <!-- Button -->
+          <div class="controls">
+            <button class="btn btn-danger" onclick="delete_()">删除</button>
+            <button class="btn btn-success" onclick="update()">更新</button>
+          </div>
+        </div>
+    </div>
+    </fieldset>
+</div>
+{% end %}

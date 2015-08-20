@@ -1,0 +1,112 @@
+{% extends "base.html" %}
+{% block body %}
+<script language="javascript" type="text/javascript">
+  function get_message_id()
+    {
+        var message_text=$('.message_text').val();
+        if(message_text == "")
+        {
+            alert("grd中text字段不能为空");
+            return ;
+        }
+        $.post("/tool", { Action: "post", 'message_text': message_text},
+        function (data, textStatus){
+
+        $('#translation_id').val(data);
+               }, "text");
+    }
+
+      function get_message_name()
+    {
+        var translation_text=$('.translation_text').val();
+        if(translation_text == "")
+        {
+            alert("xtb中text字段不能为空");
+            return ;
+        }
+        $.post("/tool", { Action: "post", 'translation_text': translation_text},
+        function (data, textStatus){
+
+        $('#message_name').val(data);
+               }, "text");
+    }
+</script>
+<div id="generated_resources">
+
+    <fieldset>
+      <div id="legend" class="">
+        <legend class="">zh-CN.xtb中ID计算</legend>
+      </div>
+
+
+    <div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">grd中text字段:</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea type="" class="message_text" style="margin: 0px; height: 77px; width: 370px;"> </textarea>
+            </div>
+          </div>
+        </div>
+
+    <div class="control-group">
+
+          <!-- Text input-->
+          <label class="control-label" for="input01">id:</label>
+          <div class="controls">
+            <input type="text" placeholder="placeholder" class="input-xlarge" style="width:370px" id="translation_id">
+            <p class="help-block"></p>
+          </div>
+        </div>
+
+    <div class="control-group">
+          <label class="control-label"></label>
+
+          <!-- Button -->
+          <div class="controls">
+            <button class="btn btn-success" onclick="get_message_id()">计算</button>
+          </div>
+        </div>
+
+    </fieldset>
+
+     <fieldset>
+      <div id="legend" class="">
+        <legend class="">zh-CN.xtb中中文反推IDS</legend>
+      </div>
+
+    <div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">xtb文件中文:</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea type="" class="translation_text" style="margin: 0px; height: 77px; width: 370px;"> </textarea>
+            </div>
+          </div>
+        </div>
+
+    <div class="control-group">
+
+          <!-- Text input-->
+          <label class="control-label" for="input01">IDS:</label>
+          <div class="controls">
+            <textarea type="" class="message_name" style="margin: 0px; height: 77px; width: 370px;" id="message_name"> </textarea>
+            <p class="help-block"></p>
+          </div>
+        </div>
+
+    <div class="control-group">
+          <label class="control-label"></label>
+
+          <!-- Button -->
+          <div class="controls">
+            <button class="btn btn-success" onclick="get_message_name()">查找</button>
+          </div>
+        </div>
+
+    </fieldset>
+
+</div>
+{% end %}

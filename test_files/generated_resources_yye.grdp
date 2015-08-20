@@ -1,0 +1,1473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- YYExplorer specific strings (included from generated_resources.grd). -->
+<grit-part>
+  <!-- Begin of YYExplorer strings-->
+  <!-- YY Browser Begin -->
+  <!--YY Browser Start Menu Strings. add by Von-->
+  <message name="IDS_SOUND_CONTROLLER" desc="The text label for the menu item for mute all sound in a page in Start Menu">
+	  Sound controller
+	</message>
+  <message name="IDS_POPUP_BLOCKER" desc="The text label for the menu item for blocking popup windows in a page in Start Menu">
+	  Block Popup Window
+	</message>
+  <message name="IDS_APP_STORE" desc="The text label for the menu item for navigating to YY Game Browser App Store Page in Start Menu">
+	  Theme Gally
+	</message>
+  <!--YY Browser End-->
+  <!-- YY Browser Begin -->
+  <!--YY Browser help Menu Strings. add by zy-->
+  <message name="IDS_CHECK_UPDATE" desc="The text label for the menu item for check browser version ">
+	  Check Update
+	</message>
+  <message name="IDS_HAVE_UPDATE" desc="The text label for the menu item for have new browser version to update">
+	  Have Update
+	</message>
+  <message name="IDS_FORUM_FEEDBACK" desc="The text label for the menu item for forum feedback">
+	  Forum Feedback
+	</message>
+  <message name="IDS_ABOUT_BROWSER" desc="The text label for the menu item for yy browser widget">
+	  About Browser
+	</message>
+  <message name="IDS_BROWSER_CONFIRM" desc="The text label for confirm the browser version">
+	  Confirm
+	</message>
+  <!--YY Browser End-->
+  <!-- YY Browser Begin @2013-12-31 09:56-->
+  <message name="IDS_TOOLTIP_PREFIX_TAB_SUBACCOUNT" desc="The tooltip prefix text to be displayed in the title of a tab if tab is a subaccount tab.">
+      SubAccount|
+    </message>
+  <!-- YY Browser End -->
+  <!--YY Browser Begin add by Von-->
+  <message name="IDS_NEW_NORMAL_WINDOW" desc="The text label of the New Window menu item">
+          New normal window
+        </message>
+  <message name="IDS_NEW_SUBACCOUNT_WINDOW" desc="The text label of the New subaccount window menu item">
+          New SubAccount window
+        </message>
+  <!--YY Browser End-->
+  <!--YY Browser Begin add by Von-->
+  <message name="IDS_SAVE_PAGE_AS_IMAGE" desc="The text label of the save page as image menu item. Opens a dialog box to select print settings">
+          Save Page as Image...
+        </message>
+  <message name="IDS_SAVE_PAGE_AS_FILE" desc="The text label of the save page as image menu item. Opens a dialog box to select print settings">
+          Save Page as File...
+        </message>
+  <!--YY Browser End-->
+  <!--YY Browser Begin add by Von @2013-1-01 19:02-->
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_TIPS_ENTER" desc="enter fullscreen mode toolips">
+			Enter Fullscreen Mode
+		</message>
+  <!--YY Browser End-->
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_TIPS_EXIT" desc="exit fullscreen mode">
+			exit fullscreen mode
+		</message>
+  <!-- YY Browser Begin -->
+  <!-- YY Browser Begin -->
+  <!-- stretch menu texts add by chenxiankang -->
+  <message name="IDS_STRETCH_MENU_FILE" desc="The text of the file button on browser stretch menu">
+    file
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_FILE" desc="The tool tip text of the file button on browser stretch menu">
+    file menu
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW" desc="The text of the view button on browser stretch menu">
+    view
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_VIEW" desc="The tool tip text of the view button on browser stretch menu">
+    view menu
+  </message>
+  <message name="IDS_STRETCH_MENU_FAVOURITE" desc="The text of the favourite button on browser stretch menu">
+    favourite
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_FAVOURITE" desc="The tool tip text of the favourite button on browser stretch menu">
+    favourite menu
+  </message>
+  <message name="IDS_STRETCH_MENU_TOOL" desc="The text of the tool button on browser stretch menu">
+    tool
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_TOOL" desc="The tool tip text of the tool button on browser stretch menu">
+    tool menu
+  </message>
+  <message name="IDS_STRETCH_MENU_HELP" desc="The text of the help button on browser stretch menu">
+    help
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_HELP" desc="The tool tip text of the help button on browser stretch menu">
+    help menu
+  </message>
+  <message name="IDS_STRETCH_MENU_MAIN_MENU" desc="The text of the menu button on browser stretch menu">
+    menu
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_UNFOLD" desc="The tool tip text of the unfold image button on browser stretch menu">
+    restore menu
+  </message>
+  <message name="IDS_TIPS_STRETCH_MENU_FOLD" desc="The tool tip text of the fold image button on browser stretch menu">
+    Hide menu on the right side
+  </message>
+  <message name="IDS_STRETCH_MENU_NEW_WINDOW" desc="The text of new window of popup menu item on browser stretch menu">
+    new window from stretch menu
+  </message>
+  <message name="IDS_STRETCH_MENU_NEW_INCOGNITO_WINDOW" desc="The text of new incognito window of popup menu item on browser stretch menu">
+    new incognito window from stretch menu
+  </message>
+  <message name="IDS_STRETCH_MENU_NEW_SUBACCOUNT_WINDOW" desc="The text of new subaccount window of popup menu item on browser stretch menu">
+    new subaccount window from stretch menu
+  </message>
+  <message name="IDS_STRETCH_MENU_SAVE_PAGE_AS_FILE" desc="The text of save page as file of popup menu item on browser stretch menu">
+    save page as file from stretch menu
+  </message>
+  <message name="IDS_STRETCH_MENU_SAVE_PAGE_AS_IMAGE" desc="The text of save page as image new window of popup menu item on browser stretch menu">
+    save page as image from stretch menu
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_AVATAR" desc="The text of the avatar of view menu item on browser stretch menu">
+    avatar
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_MENU_BAR" desc="The text of the menu bar of view menu item on browser stretch menu">
+    menu bar
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_SEARCH_BAR" desc="The text of the search bar of view menu item on browser stretch menu">
+    search bar
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_FAVOURITE_BAR" desc="The text of the favourite bar of view menu item on browser stretch menu">
+    favourite bar
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_EXTENSION_BAR" desc="The text of the extension bar of view menu item on browser stretch menu">
+    extension bar
+  </message>
+  <message name="IDS_STRETCH_MENU_VIEW_SIDEBAR" desc="The text of the sidebar of view menu item on browser stretch menu">
+    side bar
+  </message>
+  <message name="IDS_BROWSER_OFFICIAL_WEBSITE" desc="The text of the browser official website of help menu item on browser stretch menu">
+    borwser official website
+  </message>
+  <message name="IDS_ZOOM_PAGE_50_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    50%
+  </message>
+  <message name="IDS_ZOOM_PAGE_75_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    75%
+  </message>
+  <message name="IDS_ZOOM_PAGE_100_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    100%(default)
+  </message>
+  <message name="IDS_ZOOM_PAGE_150_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    150%
+  </message>
+  <message name="IDS_ZOOM_PAGE_200_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    200%
+  </message>
+  <message name="IDS_ZOOM_PAGE_400_PECENT" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    400%
+  </message>
+  <message name="IDS_ZOOM_PAGE_FOR_ALL" desc="The text of the zoom page of zoom page menu on browser stretch menu">
+    zoom for all
+  </message>
+  <message name="IDS_SET_AS_THE_DEFAULT_BROWSER" desc="The text of set as the default browser of tool menu on browser stretch menu">
+    set as the default browser
+  </message>
+  <!-- YY Browser End -->
+  <!-- YY Browser Begin -->
+  <!-- video record texts add by chenxiankang-->
+  <message name="IDS_IMAGE_PROGRESS_BAR_VIEW_TIPS" desc="The text of tips for image progress bar view on video record">
+    creating an image for you, please wait...
+  </message>
+  <message name="IDS_PHOTO_EDITOR_TITLE" desc="The text of title for photo editor view on video record">
+    image editing
+  </message>
+  <message name="IDS_PHOTO_EDITOR_DONE" desc="The text of done for photo editor view on video record">
+    done
+  </message>
+  <message name="IDS_PHOTO_EDITOR_CANCEL" desc="The text of cancel for photo editor view on video record">
+    cancel
+  </message>
+  <message name="IDS_PHOTO_EDITOR_ZOOM_IN" desc="The text of zoom in for photo editor view on video record">
+    zoom in
+  </message>
+  <message name="IDS_PHOTO_EDITOR_ZOOM_OUT" desc="The text of zoom out for photo editor view on video record">
+    zoom out
+  </message>
+  <message name="IDS_PHOTO_EDITOR_CONTROL_UNDO" desc="The text of undo for photo editor view on video record">
+    undo
+  </message>
+  <message name="IDS_PHOTO_EDITOR_CONTROL_REDO" desc="The text of redo for photo editor view on video record">
+    redo
+  </message>
+  <!-- YY Browser End -->
+  <!-- start menu texts add by Von -->
+  <if expr="is_win">
+    <message name="IDS_START_MENU_LOGOUT" desc="The text of the login button on browser start menu">
+          Logout
+        </message>
+    <message name="IDS_TIPS_START_MENU_LOGIN" desc="The tool tip text of the login button on browser start menu">
+          Click to login into your YY Acccount
+        </message>
+    <message name="IDS_TIPS_START_MENU_LOGOUT" desc="The tool tip text of the logout button on browser start menu">
+          Click to logout of your YY Acccount
+        </message>
+    <message name="IDS_START_MENU_MY_CENTER" desc="The text of the text button on browser start menu to navigate to yy game account center">
+          My YY Game Center
+        </message>
+    <message name="IDS_TIPS_START_MENU_MY_CENTER" desc="The tool tip text of the text button on browser start menu to navigate to yy game account center">
+          Click to navigate to My Center
+        </message>
+    <message name="IDS_START_MENU_MY_SYNC_CENTER" desc="The text of the text button on browser start menu to navigate to user's sync center">
+          My YY Game Sync Center
+        </message>
+    <message name="IDS_TIPS_START_MENU_MY_SYNC_CENTER" desc="The tool tip text of the text button on browser start menu to navigate to user's sync center ">
+          Click to navigate to My Sync Center
+        </message>
+    <message name="IDS_TIPS_DOWNLOAD_MANAGER_BUTTON" desc="The tool tip text of button in toolbar in browser main window that use to open download manager.">
+          Click to Open Download Manager
+        </message>
+  </if>
+  <!-- YY Browser End -->
+  <!--书签添加文字-->
+  <if expr="is_win">
+    <message name="IDS_ADD_BOOKMARK" desc="The text used for add bookmark widget title ">
+          Add Collection
+        </message>
+  </if>
+  <!--about窗口 文字-->
+  <if expr="is_win">
+    <message name="IDS_VERSION" desc="The text used for version ">
+          Browser Version <ph name="APP_NAME">$1<ex>version</ex></ph>  
+        </message>
+    <message name="IDS_BUSINESS_COPYRIGHT" desc="The text used for business copyright ">
+        Business Copyright
+      </message>
+    <message name="IDS_BUSINESS_COPYRIGHT_YEAR" desc="The text used for business copyright year  ">
+        Business Copyright  <ph name="APP_NAME">$1<ex>copyright</ex></ph> [YY Inc].
+      </message>
+  </if>
+  <if expr="is_win">
+    <message name="IDS_MORE_TABS" desc="The text used for more tabs ">
+        More Tabs
+        </message>
+  </if>
+  <!--关闭窗口的提示文字 by zy-->
+  <if expr="is_win">
+    <message name="IDS_CLOSEWINDOW" desc="The text used for implying  title when  close window ">
+          Close Window Imply Title
+        </message>
+    <message name="IDS_SOMETABSNOTCLOSE" desc="The text used for implying label when  close window "><ph name="APP_NAME">$1</ph> Tabs Aren't Closed
+        </message>
+    <message name="IDS_NOTINQUIRY" desc="The text used for check box label when  close window ">
+          Not Inquiry
+        </message>
+  </if>
+  <!--创建快捷方式的提示文字 by zy-->
+  <if expr="is_win">
+    <message name="IDS_CREATE_SHORTCUT_IMPLY" desc="The text used for check label when  we don't have shortcut ">
+          Create Shortcut
+        </message>
+    <message name="IDS_ADD_UNINSTALL_IMPLY" desc="The text used for check box label when  we don't have uninstall item ">
+          Add Uninstall item
+        </message>
+    <message name="IDS_BROWSER_RECOMMENDATION" desc="The text used for browser recommend ">
+          In Order To Obtain A Better Experience , we recommend :
+        </message>
+  </if>
+  <!--导入相关文字资源 by zjj-->
+  <if expr="is_win">
+    <message name="IDS_IMPORT_BOOKMARK" desc="The text used for import dialog title">
+			Import BookMark
+		</message>
+    <message name="IDS_IMPORT_FROM_CHROME" desc="The text used for import from chrome">
+			Import from Chorme
+		</message>
+    <message name="IDS_IMPORT_FROM_LIEBAO" desc="The text used for import from liebao">
+			Import from LieBao
+		</message>
+    <message name="IDS_IMPORT_FROM_SOUGOU" desc="The text used for import from sougou">
+			Import from SouGou
+		</message>
+    <message name="IDS_IMPORT_FROM_LOCAL" desc="The text used for import from local">
+			Import from local html
+		</message>
+    <message name="IDS_IMPORT_FROM_360SEC" desc="The text used for import from 360sec">
+			Import from 360Sec
+		</message>
+    <message name="IDS_IMPORT_FROM_360CHROME" desc="The text used for import from 360chrome">
+			Import from 360Chrome
+		</message>
+    <message name="IDS_IMPORT_NUM" desc="The text used for import the num of bookmark">
+			Success to Import <ph name="APP_NAME">
+				$1<ex>num</ex>
+			</ph> bookmark
+		</message>
+    <message name="IDS_IMPORT_IMPLY" desc="The text used for import from other browser">
+			Import from other browser
+		</message>
+    <message name="IDS_IMPORT_IMPLY_NO_NEWBOOKMARK" desc="The text used for import from browser and no new bookmark">
+			Import no new bookmark
+		</message>
+    <message name="IDS_IMPORT_FROM_BROWSER_FAIL" desc="The text used for import from other browser when import fail">
+			Import Fail, Please Choose Import  From Local
+		</message>
+    <message name="IDS_IMPORT_FROM_LOACL_FAIL" desc="The text used for import from local when import fail">
+			Import Fail, Please Import Again
+		</message>
+    <message name="IDS_BOOKMARK_GROUP_FROM_CHROME" desc="the group name of bookmarks from chrome">
+			Imported From Chrome
+		</message>
+    <message name="IDS_BOOKMARK_GROUP_FROM_LIEBAO" desc="the group name of bookmarks from liebao">
+			Imported From Liebao
+		</message>
+    <message name="IDS_BOOKMARK_GROUP_FROM_LOCAL" desc="the group name of bookmarks from local">
+			Imported From Local
+		</message>
+    <message name="IDS_BOOKMARK_GROUP_FROM_SANLIULING_SAFE" desc="the group name of bookmarks from 360">
+			Imported From 360 safe
+		</message>
+    <message name="IDS_BOOKMARK_GROUP_FROM_SANLIULING_CHROME" desc="the group name of bookmarks from 360">
+			Imported From 360 chrome
+		</message>
+    <!--导入常用数据的提示-->
+    <message name="IDS_BOOKMAR_BAR_IMPORT_ACTIVE_DATA" desc="Text shown when the browser import active data ">
+        For quick access, place your active data on your browser.
+      </message>
+    <!--默认导入数据-->
+    <message name="IDS_BOOKMARK_BAR_ACTIVE_DATA_IMPORT_LINK" desc="text shown for importe_link  active data   ">
+        Import user's data now...
+      </message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_TIPS" desc="default bookmark import infobar tips">
+			default bookmark import infobar tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_NOT_SAVE_TIPS" desc="default bookmark import not save tips">
+			default bookmark import infobar not save tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_HISTORY_DATA_TIPS" desc="default bookmark import infobar history data tips">
+			default bookmark import infobar history  data tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_BOOKMARK_DATA_TIPS" desc="default bookmark import infobar bookmark tips">
+			default bookmark import infobar bookmark tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_EXTENSION_DATA_TIPS" desc="default bookmark import infobar extension data tips">
+			default bookmark import infobar extension data tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_COOKIES_DATA_TIPS" desc="default bookmark import infobar cookier data tips">
+			default bookmark import infobar cookier data tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_ASK_TIPS" desc="default bookmark import infobar tips">
+			default bookmark import infobar  ask tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_SAVE_TIPS" desc="default bookmark import infobar  save tips">
+			default bookmark import infobar save tips
+		</message>
+    <message name="IDS_DEFAULT_BOOKMARK_IMPORT_INFOBAR_CANCEL_TIPS" desc="default bookmark import infobar  cancel tips">
+			default bookmark import infobar cancel tips
+		</message>
+  </if>
+  <!--书签栏菜单-->
+  <if expr="is_win">
+    <message name="IDS_BOOKMARK_BAR_REPLACE" desc="Menu title for replace a bookmar ">
+			Replace Page
+		</message>
+    <message name="IDS_BOOKMARK_BAR_ADD" desc="for add url to bookmar">
+			Add to bookmark bar
+		</message>
+    <message name="IDS_BOOKMARK_BAR_SORT_BY_NAME" desc="bookmark order by name">
+			order by name
+		</message>
+    <message name="IDS_BOOKMARK_BAR_SORT_BY_TIME" desc="bookmark order by time">
+			order by time
+		</message>
+    <message name="IDS_BOOKMARK_BAR_COPY_CURRENT" desc="copy current url">
+			copy current url
+		</message>
+    <message name="IDS_BOOKMARK_MESSAGEBOX_MSG" desc=" msg for bookmark delete">
+			bookmark delete msg
+		</message>
+    <message name="IDS_BOOKMARK_MESSAGEBOX_EXIST_TIPS" desc=" msg for bookmark add">
+			bookmark has exist,would you replace it,yes or not?
+		</message>
+    <message name="IDS_BOOKMARK_MESSAGEBOX_EXIST_TIPS_CONFIRM" desc=" msg for bookmark add confirm">
+			confirm
+		</message>
+    <message name="IDS_BOOKMARK_STAR" desc="The text for bookmark menu item">
+			Bookmark this page
+		</message>
+  </if>
+  <!--bookmar Menu Message-->
+  <if expr="is_win">
+    <message name="IDS_BOOKMARK_MANAGER_TIPS" desc="The text used for show bookmark manager menu button">
+			Bookmark Manager
+		</message>
+  </if>
+  <!--老板键-->
+  <if expr="is_win">
+    <message name="IDS_YYEXPLORER" desc="yy explorer">
+			YY explorer
+	</message>
+  </if>
+  <!--收藏栏-->
+  <if expr="is_win">
+    <message name="IDS_NEW_BOOKMARK_BAR" desc="new bookmark bar">
+		new	bookmark bar
+	</message>
+  </if>
+  <!--鼠标手势-->
+  <if expr="is_win">
+    <message name="IDS_GESTURE_INVALID" desc="The text used for show invalid gesture">
+      Invalid gesture
+    </message>
+    <message name="IDS_GESTURE_SCROLL_UP" desc="The text used for show Scroll up gesture">
+      Scroll up
+    </message>
+    <message name="IDS_GESTURE_SCROLL_DOWN" desc="The text used for show Scroll down gesture">
+      Scroll down
+    </message>
+    <message name="IDS_GESTURE_SCROLL_LEFT" desc="The text used for show Scroll left gesture">
+      Scroll left
+    </message>
+    <message name="IDS_GESTURE_SCROLL_RIGHT" desc="The text used for show Scroll right gesture">
+      Scroll right
+    </message>
+    <message name="IDS_GESTURE_SCROLL_TOP" desc="The text used for show Scroll top gesture">
+      Scroll top
+    </message>
+    <message name="IDS_GESTURE_SCROLL_BOTTOM" desc="The text used for show Scroll bottom gesture">
+      Scroll bottom
+    </message>
+    <message name="IDS_GESTURE_GO_BACK" desc="The text used for show Go back gesture">
+      Gesture Back
+    </message>
+    <message name="IDS_GESTURE_GO_FORWARD" desc="The text used for show Go forward gesture">
+      Forward
+    </message>
+    <message name="IDS_GESTURE_REFRESH" desc="The text used for show Refresh gesture">
+      yybrowser_refresh
+    </message>
+    <message name="IDS_GESTURE_STOP" desc="The text used for show Stop gesture">
+      Stop
+    </message>
+    <message name="IDS_GESTURE_NEW_FOREGROUND_TAB" desc="The text used for show New foreground tab gesture">
+      New foreground tab
+    </message>
+    <message name="IDS_GESTURE_HOME" desc="The text used for show Open Home gesture">
+      Open the home page
+    </message>
+    <message name="IDS_GESTURE_CLOSE_CURRENT_TAB" desc="The text used for show Close current tab gesture">
+      Close current tab
+    </message>
+    <message name="IDS_GESTURE_CLOSE_OTHER_TABS" desc="The text used for show Close other tabs gesture">
+      Close unactive tabs
+    </message>
+    <message name="IDS_GESTURE_CLOSE_ALL_TABS" desc="The text used for show Close all tabs gesture">
+      Close all tabs
+    </message>
+    <message name="IDS_GESTURE_CLOSE_BROWSER_WINDOW" desc="The text used for show Close browser window gesture">
+      Close browser window
+    </message>
+    <message name="IDS_GESTURE_RECOVER_LAST_CLOSED_TAB" desc="The text used for show Recover last close tab gesture">
+      Recover last close tab
+    </message>
+    <message name="IDS_GESTURE_SWITCH_PREVIOUS_TAB" desc="The text used for show Switch previous tab gesture">
+      Switch previous tab
+    </message>
+    <message name="IDS_GESTURE_SWITCH_NEXT_TAB" desc="The text used for show Switch next tab gesture">
+      Switch next tab
+    </message>
+    <message name="IDS_GESTURE_BOSS_KEY" desc="The text used for show Boss key gesture">
+      Boss key
+    </message>
+    <message name="IDS_GESTURE_FULL_SCREEN" desc="The text used for show Full screen gesture">
+      Full screen
+    </message>
+    <message name="IDS_GESTURE_MINIMIZE" desc="The text used for show Minimize gesture">
+      Minimize
+    </message>
+  </if>
+  <!-- YY Browser Begin-->
+  <message name="IDS_TAB_PREVIEW_TIP_PART1" desc="Tool tip for the tabs preview window!">
+    "TIPS: HIT"
+  </message>
+  <message name="IDS_TAB_PREVIEW_TIP_PART2" desc="Tool tip for the tabs preview window!">
+    "to Open Tab Preview Window!"
+  </message>
+  <!-- YY Browser End-->
+  <if expr="is_win">
+    <message name="IDS_TOOLTIP_SWITCH_FROM_CHROME_CORE" desc="The tooltip for swich core button">
+      Click to switch chrome core
+    </message>
+  </if>
+  <if expr="is_win">
+    <message name="IDS_TOOLTIP_SWITCH_FROM_IE_CORE" desc="The tooltip for swich core button">
+      Click to switch IE core
+    </message>
+  </if>
+  <if expr="is_win">
+    <message name="IDS_DROP_ACTION" desc="The tooltip used for the location bar's drop button">
+      Get the similar webpage.
+    </message>
+  </if>
+  <if expr="is_win">
+    <message name="IDS_INPUT_SEARCHCONTENT_TIPS" desc="The tooltip used for the search bar">
+      Input Search Content
+    </message>
+  </if>
+  <message name="IDS_AUTO_ADSORB" desc="auto adsorb ">
+			  auto adsorb
+		</message>
+  <message name="IDS_HIDE_FULLSCREEN_TOOLBAR" desc="hide fullscreen toolbar">
+			 hide fullscreen toolbar
+		</message>
+  <message name="IDS_HIDE_UNFULLSCREEN_TOOLBAR" desc="hide unfullscreen toolbar">
+			 hide unfullscreen toolbar
+		</message>
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_FULL_SCREEN_OPTION_SETTING" desc="fullscreen option setting">
+		fullscreen option setting
+	</message>
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_TIPS_CLOSE_TAB" desc="close the current tab">
+			close the current tab in fullscreen mode 
+		</message>
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_TIPS_VIEW_TABS" desc="view tabs">
+			view tabs in fullscreen mode
+		</message>
+  <message name="IDS_FULL_SCREEN_TOOL_BAR_TIPS_NEW_TAB" desc="open new tab">
+			open new tab in fullscreen mode
+		</message>
+  <message name="IDS_XPFRAME_RECOVER_PAGE_TOOLTIP" desc="The tooltip used for the recover page button">
+			Recover page 
+		</message>
+  <message name="IDS_XPFRAME_TOP_TOOLTIP" desc="The tooltip used for the top button">
+			Top
+		</message>
+  <message name="IDS_XPFRAME_UNTOP_TOOLTIP" desc="The tooltip used for the untop button">
+			UnTop
+		</message>
+  <!--YY Browser Begin add by Von @2013-10-26 19:05-->
+  <!--stuffs shown in page security info bubble-->
+  <message name="IDS_SECURITY_BRIEF_UNKNOWN" desc="text shown in url security bubble, indicating an unknown security type url">
+    Unknown page security. Access with caution!
+  </message>
+  <message name="IDS_SECURITY_BRIEF_SECURE" desc="text shown in url security bubble indicatin a secure url">
+    Safe Page. Feel free to access.
+  </message>
+  <message name="IDS_SECURITY_BRIEF_SUSPICIOUS" desc="text shown in url security bubble">
+    Might be Dangerous. Access with extra caution.
+  </message>
+  <message name="IDS_SECURITY_BRIEF_DANGEROUS" desc="text shown in url security bubble">
+    Probably Dangerous. Suggest to leave!
+  </message>
+  <!--stuffs shown in location bar icon-->
+  <message name="IDS_SECURITY_UNKNOWN" desc="text shown along side security icon in toolbar, indicating an unknow url">
+    Unknown
+  </message>
+  <message name="IDS_SECURITY_SUSPICIOUS" desc="text shown along side security icon in toolbar,">
+    Suspicious
+  </message>
+  <message name="IDS_SECURITY_DANGEROUS" desc="text shown along side security icon in toolbar,">
+    Dangerous
+  </message>
+  <message name="IDS_SECURITY_SECURE" desc="text shown along side security icon in toolbar,">
+    Safe
+  </message>
+  <message name="IDS_SECURITY_SOURCE" desc="text shown along side security icon in toolbar,">
+    Verify service from KinSoft and anquan.org:
+  </message>
+  <message name="IDS_SECURITY_ADS" desc="text shown along side security icon in toolbar,">
+    Two Url verify source support, keeping your surfing safe.
+  </message>
+  <message name="IDS_SECURITY_REPORT_THIS_URL" desc="text shown along side security icon in toolbar,">
+    Report this page.
+  </message>
+  <message name="IDS_SECURITY_SITE_DETAIL" desc="text shown along side security icon in toolbar,">
+    More Details...
+  </message>
+  <!--YY Browser End-->
+  <!--revoke Menu Message-->
+  <if expr="is_win">
+    <message name="IDS_CLEAR_REVOKE_TABS" desc="The text used for clear revoke tabs">
+			Clear Revoke Tabs
+		</message>
+    <message name="IDS_UNDO_ACTION" desc="The tooltip used for the undo button">
+			Reopen the closed web page.
+		</message>
+    <message name="IDS_DOWNLOAD_ACTION" desc="The tooltip used for the download button">
+      Download resource.
+    </message>
+    <message name="IDS_RESTOR_TIPS" desc="The text used for show restore menu button">
+			Left Key: Restore Closed Tab
+			Right Key: Show Revoke List
+		</message>
+    <message name="IDS_RESTOR_WINDOW_TIPS" desc="The text used for show restore menu button">
+			Left Key: Restore Closed Window
+			Right Key: Show Revoke List
+		</message>
+  </if>
+  <!--YY Browser Begin Add by zy -->
+  <message name="IDS_EXTENSION_MANAGER_TIPS" desc="The tips of extension_manager's prompt information">
+		We have imported some new  extensions
+	</message>
+  <message name="IDS_EXTENSION_MANAGER" desc="The tips of extension_manager">
+		Extension Manager
+	</message>
+  <!--YY Browser End-->
+  <!--YYBrowser Begin  render view menu .added by zjj-->
+  <message name="IDS_SWITCH_RENDERER_CHROME" desc="switch core  to chrome">
+		switch core to chrome
+	</message>
+  <message name="IDS_SWITCH_RENDERER_IE" desc="switch core  to ie">switch core to ie</message>
+  <message name="IDS_ATTRIBUTE" desc="right menu attribute">
+		attribute
+	</message>
+  <message name="IDS_COPY_URL" desc="In Title Case: The copy url menu option in context menu">
+		Copy URL
+	</message>
+  <message name="IDS_CONTENT_CONTEXT_ADDBOOKMARK" desc="The name of the AddBookmark command in the content area context menu">
+		&amp;AddBookMark
+	</message>
+  <message name="IDS_SHOW_FULLSCREEN_TOOLBAR" desc="show fullscreen toolbar">
+		show fullscreen toolbar
+	</message>
+  <message name="IDS_SHOW_UNFULLSCREEN_TOOLBAR" desc="show unfullscreen toolbar">
+		show unfullscreen toolbar
+	</message>
+  <!--YYBrowser End-->
+  <message name="IDS_FEEDBACK_TIPS" desc="feed back tips">
+    feedback tips
+  </message>
+  <message name="IDS_FEEDBACK_ACTION" desc="The tooltip used for the feedback button">
+    Feedback some question.
+  </message>
+  <!--YY Browser Begin add  by zy -->
+  <message name="IDS_ACCELERATOR" desc="The tips of accelerator tips in start menu  ">
+		Accelerator
+	</message>
+  <message name="IDS_START_MENU_FULLSCREEN" desc="The fullscreen item'title in start menu  ">
+		FullScreen Ability
+	</message>
+  <message name="IDS_START_MENU_ADBLOCK" desc="The adblock item'title in start menu  ">
+		Adblock Ability
+	</message>
+  <!--YY Browser End-->
+  <!--YYBrowser Begin add by  zy-->
+  <message name="IDS_ADBLOCK" desc="The text label for the submenu item for blocking popup windows in a page in Start Menu">
+		Block AD Page
+	</message>
+  <message name="IDS_ADBLOCK_POPUP_WINDOW" desc="The text label for the menu item for navigating to YY Game Browser App Store Page in Start Menu">
+		Block AD Popup Window
+	</message>
+  <message name="IDS_ADBLOCK_VIDEO_AD" desc="The text label for the menu item for block ad in video in Start Menu">
+		Block AD in Video
+	</message>
+  <!--YYBrowser End-->
+  <!--换肤 by lixuan-->
+  <message name="IDS_XPFRAME_SKIN_TOOLTIP" desc="The tooltip used for the skin button">
+    Change Browser Skin
+  </message>
+  <message name="IDS_XPFRAME_SKIN_ACTION" desc="The tooltip used for the skin button">
+    Change Browser Skin
+  </message>
+  <!--网银助手 InternetBank by kxy-->
+  <message name="IDS_INTERNET_BANK_TO_INSTALL" desc="The tip used for reminding users to install Internet bank contrler"><ph name="APP_NAME">$1</ph>To Install Internet Bank Controler
+  </message>
+  <message name="IDS_INTERNET_BANK_INSTALLING" desc="The tip used for telling users that Internet bank contrler is installing">
+    Installing Internet Bank Controler
+  </message>
+  <message name="IDS_INTERNET_BANK_INSTALL_FAILED" desc="The tip used for telling users that Internet bank contrler is install failed">
+    Internet Bank Controler Intall failed
+  </message>
+  <message name="IDS_INTERNET_BANK_DOWNLOAD_FAILED" desc="The tip used for telling users that Internet bank contrler is download failed">
+    Internet Bank Controler download failed
+  </message>
+  <!-- Accountlogin UI Begin-->
+  <message name="IDS_USERNAME" desc="the text label of username">
+    UserName
+  </message>
+  <message name="IDS_PASSWORD" desc="the text label of password">
+    PassWord
+  </message>
+  <message name="IDS_FORGET_PASSWORD" desc="the text label of recover password">
+    Forget Password
+  </message>
+  <message name="IDS_REGISTER_PASSPORT" desc="the text label of register passport">
+    RegisterPassport
+  </message>
+  <message name="IDS_AUTO_LOGIN" desc="the text label of auto login">
+    Auto Login
+  </message>
+  <message name="IDS_LOGIN_STATE" desc="the text label of login state ">
+    Please input UserName and Password
+  </message>
+  <message name="IDS_LOGIN_STATE_SUCCESS" desc="the text label of login state ">
+    Login Success
+  </message>
+  <message name="IDS_LOGIN_STATE_FAIL" desc="the text label of login state ">
+    Login Fail
+  </message>
+  <message name="IDS_LOGIN_EMPTY_INPUT" desc="the text label of login empty input ">
+    Empty Input
+  </message>
+  <message name="IDS_LOGIN_EMPTY_PASSW" desc="the text label of login empty passw input ">
+    Empty Passw Input
+  </message>
+  <message name="IDS_LOGIN_EMPTY_PASSPORT" desc="the text label of login empty passport input ">
+    Empty Passport Input
+  </message>
+  <message name="IDS_LOGIN_WRONG_PASSW" desc="the text label of login input a wrong passw ">
+    Wrong Passw Input
+  </message>
+  <message name="IDS_LOGIN_WRONG_PASSPORT" desc="the text label of login input a wrong passport ">
+    Wrong Passport Input
+  </message>
+  <message name="IDS_LOGIN_NETWORK_ERROR" desc="the text label of login fail for network error ">
+    Network Error
+  </message>
+  <message name="IDS_LOGIN_NETWORK_UDB_DOWN" desc="the text label of login fail for UDB server down ">
+    UDB Down
+  </message>
+  <message name="IDS_LOGIN_HAVE_NO_PASSPORT" desc="the text label of have no passport ">
+    You Have No Passport
+  </message>
+  <message name="IDS_LOGIN_FRAME_TITLE" desc="the text label of login frame title ">
+    Use Passport To Login
+  </message>
+  <message name="IDS_LOGIN_CapsLock" desc="the text label of capslock ">
+    Cpaslock Pressed
+  </message>
+  <message name="IDS_YYLIST_EXISTS" desc="the text label of the online yy list exists">
+    The Online YY List Exists
+  </message>
+  <message name="IDS_LONGIN_WITH_PASSPORT" desc="the text label of choosing login with passport">
+    Login With Passport
+  </message>
+  <message name="IDS_LONGIN_WITH_FAST_LOGIN" desc="the text label of choosing login with fast login">
+    Login With Fast Login
+  </message>
+  <message name="IDS_SEPARATOR_BETWEEN_LINK" desc="the separator label between two links">
+    The Separator Label Between Two Links
+  </message>
+  <message name="IDS_LONGIN_PROMPT_INFO" desc="the separator label  of  LOGIN PROMPT">
+    You have no account?
+  </message>
+  <!--YY Browser Begin 弹窗对应的刷新按钮 add by cc @ 2014.03.04-->
+  <message name="IDS_XPFRAME_REFRESH_TOOLTIP" desc="The tooltip used for the refresh button">
+    Refresh
+  </message>
+  <!--YY Browser End-->
+  <!-- Accountlogin UI End-->
+  <!-- YYBrowser begin -->
+  <!-- added by anhomehuang -->
+  <message name="IDS_SAFE_BROWSING_MALWARE_PROCEED_LINK" desc="SafeBrowsing Malware HTML description, last line proceed link part.">
+    proceed anyway
+  </message>
+  <message name="IDS_SAFE_BROWSING_PHISHING_CLOSE_BUTTON" desc="SafeBrowsing Phishing, Close button">
+    Close Current Page
+  </message>
+  <!-- YYBrowser end -->
+  <!--YYBrowser Begin add by zjj extension imported-->
+  <message name="IDS_360_CHROME_BROWSER" desc="The text used for imply browser's type ">
+		360 Chrome Browser
+	</message>
+  <message name="IDS_360_SEC_BROWSER" desc="The text used for imply browser's type ">
+		360 Safe Browser
+	</message>
+  <message name="IDS_IE_BROWSER" desc="The text used for imply browser's type ">
+		IE Browser
+	</message>
+  <message name="IDS_CHROME_BROWSER" desc="The text used for imply browser's type ">
+		Chrome Browser
+	</message>
+  <message name="IDS_FIREFOX_BROWSER" desc="The text used for imply browser's type ">
+		FireFox Browser
+	</message>
+  <message name="IDS_LIEBAO_BROWSER" desc="The text used for imply browser's type ">
+		LieBao Browser
+	</message>
+  <!-- YYBrowser end -->
+  <!-- YYBrowser Begin-->
+  <!-- Adblock Added by anhomehuang-->
+  <message name="IDS_ADBLOCK_HAS_OPEN" desc="adblock has open ">
+    adblock has open
+  </message>
+  <message name="IDS_ADBLOCK_CLOSED" desc="adblock closed ">
+    adblock closed
+  </message>
+  <message name="IDS_ADBLOCK_HIT_OPEN" desc="adblock hit open ">
+    adblock hit open
+  </message>
+  <message name="IDS_ADBLOCK_HAS_BLOCK_ADS_NUM_FORMAT" desc="adblock has block advs num ">
+    adblock has block num of ads
+  </message>
+  <message name="IDS_ADBLOCK_SETTING" desc="adblock setting">
+    adblock setting
+  </message>
+  <message name="IDS_ADBLOCK_HAS_BLOCK_WND_NUM_FORMAT" desc="adblock block wnd num">
+    adblock has block wnd num
+  </message>
+  <message name="IDS_ADBLOCK_BLOCK_THIS_STATION" desc="adblock block this station">
+    adblock block this station
+  </message>
+  <message name="IDS_ADBLOCK_NOT_BLOCK_THIS_STATION" desc="adblock not block this station">
+    adblock not block this station
+  </message>
+  <message name="IDS_ADBLOCK_HAS_BLOCK_PAGE_NUM_FORMAT" desc="adblock block page num">
+    adblock has block page num
+  </message>
+  <!-- YYBrowser End -->
+  <message name="IDS_EXTENSION_MANAGER_TITLE" desc="the text of extension  manager title ">
+    Extension Manager
+  </message>
+  <!-- 划词搜索 -->
+  <!-- YY Browser Begin Add by Von @2014-06-01 16:00-->
+  <message name="IDS_SEARCH_SELECTION_SEACH_BTN" desc="text show in search selection bar search button, indicating seaching what the user has selected in webpage.">
+    Search
+  </message>
+  <message name="IDS_SEARCH_SELECTION_COPY_BTN" desc="text show in search selection bar search button, indicating coping what the user has selected in webpage.">
+    Copy
+  </message>
+  <!--YY Browser End-->
+  <!--用于version页面的文字-->
+  <!--YYBrowser Begin add by ybz @ 2014-07-02 -->
+  <message name="IDS_VERSION_COMPANY_NAME" desc="version page company name">
+    version page company name
+  </message>
+  <message name="IDS_VERION_COPYRIGHT" desc="version page copyright">
+    version page copyright <ph name="YEAR">$1</ph>
+  </message>
+  <!--YYBrowser End-->
+  <!--用于内核切换失败显示的TIP提示-->
+  <!--YYBrowser Begin add by zy-->
+  <message name="IDS_SWITCH_KENERL_WEBKIT_FAIL" desc="the text of switch kernerl fail when using IE">
+    The page just work in IE
+  </message>
+  <message name="IDS_SWITCH_KENERL_IE_FAIL" desc="the text of switch kernerl fail when using Webkit ">
+    The page just work in Webkit
+  </message>
+  <message name="IDS_EXTENSION_IMPORT_MANAGER_TITLE" desc="the text of extension import manager title ">
+    Import my local extension
+  </message>
+  <!--YYBrowser End-->
+  <!-- YY Browser Add by Von @2014-07-14 16:58-->
+  <!-- moved from yy explorer 25-->
+  <message name="IDS_CLOSE_TAB" desc="The text used for close tab button">
+    Close This Tab
+  </message>
+  <!-- YY Browser End -->
+  <!-- YY Browser Begin Add by lulei @2014-07-11 14:02 -->
+  <!-- 系统菜单显示搜索栏 -->
+  <message name="IDS_TOGGLE_SEARCH_BAR" desc="In Title Case: The toggle to toggle the search bar">
+    &amp;Show Search Bar
+  </message>
+  <!-- YY Browser End -->
+  <!-- YY_BROWSER_WEB_UI_DEV_VERSION. added by kxy -->
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_WEBCANNOTREACH" desc="webCannotReach">
+    webCannotReach
+  </message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_REFRESH" desc="refresh">
+    yybrowser_refresh
+  </message>
+  <message name="IDS_IMPORT_HISTORY" desc="The text used for import the history">Success to Import history<!--导入历史成功的提示--></message>
+  <message name="IDS_IMPORT_PASSWORD" desc="The text used for import the password"> Success to Import password<!--导入密码成功--></message>
+  <message name="IDS_IMPORT_HISTORY_AND_PASSWORD" desc="The text used for import the password and history">Success to Import history and password<!--导入历史和密码成功的提示--></message>
+  <message name="IDS_IMPORT_BOOKMARK_CHECK" desc="The The text used for bookmark check box">Browser Favorite Or Bookmarks<!--导入书签的checkbox文字--></message>
+  <message name="IDS_IMPORT_HISTORY_CHECK" desc="The text used for history check box">Browser History<!--导入浏览记录的checkbox文字--></message>
+  <message name="IDS_IMPORT_SAVE_PASSWORD_CHECK" desc="The text used for have saved password check">Browser Have saved password<!--导入已保存的密码checkbox文字--></message>
+  <message name="IDS_IMPORT_SUCCESS" desc="The text used for import success from other browser or files ">Import Success<!--书签导入成功提示--></message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_INDEX" desc="index">
+    yybrowser_index
+  </message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_SERVERNOFOUND" desc="servernofound">
+    yybrowser_servernofound
+  </message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_SERVERNOFOUNDTIPS" desc="servernofoundtips">
+    yybrowser_servernofoundtips
+  </message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_NOEXIST" desc="noexist">
+    yybrowser_noexist
+  </message>
+  <message name="IDS_ERRORPAGES_SUGGESTION_YYBROWSER_NOEXISTTIPS" desc="noexisttips">
+    yybrowser_noexisttips
+  </message>
+  <!-- YYBrowser end -->
+  <!--YYBrowser Begin added by zjj-->
+  <!--同步状态bubble文字-->
+  <message name="IDS_SYNC_SUCCESS_INFO" desc="sync info  for success">
+		sync info for success
+	</message>
+  <message name="IDS_SYNC_FAIT_INFO" desc="sync info  for fait">
+		sync info for fait
+	</message>
+  <!-- YYBrowser end -->
+  <message name="IDS_LOGIN_WRONG_USERS_LOCKED" desc="the text label of login fail for user locked">Wrong User Locked<!--账户因为被锁住所以登不上--></message>
+  <message name="IDS_LOGIN_WRONG_USERS_FROZEN" desc="the text label of login fail for user frozen">Wrong User frozen<!--账户因为被冻结所以登不上--></message>
+  <message name="IDS_ACCOUNT_MANAGER" desc="In sentence case: The fail imply text of  Account manager tips">Account Manager<!--账户管理tips--></message>
+  <message name="IDS_LOGIN_WRONG_OUT_DATE" desc="the text label of login fail for out of date">Wrong User Out of Date<!--登录超时，登录失败--></message>
+  <message name="IDS_LOGIN_TO" desc="the text label of login to some extension">Login to<!--登录到一些扩展中--></message>
+  <message name="IDS_YY_EXPLOER" desc="the text label of exploer name">YYExploer <!--用于从yy浏览器发起的登陆源--></message>
+  <message name="IDS_UN_RECOGNIZE_EXTENSION" desc="the text label of unrecognize extension name">UnRecoginze Extension<!--从其他应用发起登录，但不能识别应用名字--></message>
+  <message name="IDS_DELETE_ACCOUNT_WIDGET_TITLE" desc="the text label of delete account widget title">Delete Account<!--删除账号时，提示窗口的标题--></message>
+  <message name="IDS_DELETE_ACCOUNT_WIDGET_CONFIRM_TEXT" desc="the text label of delete account widget confirm text">Confirm Text<!--删除账号时的确认按钮文字--></message>
+  <message name="IDS_DELETE_ACCOUNT_WIDGET_CANCEL_TEXT" desc="the text label of delete account widget cancel text">cancel Text<!--删除账号时的取消按钮文字--></message>
+  <message name="IDS_DELETE_ACCOUNT_IMPLY_TEXT" desc="the text label of delete account imply text">use the account to login<!--用于删除账号时的提示文字--></message>
+  <message name="IDS_ACCOUNT_MANAGER_HAVE_ACCOUNTS_IMPLY_TEXT" desc="the text label of account manager have accounts imply text">the account list of you have logined<!--有账户登录时，账户管理窗口的提示信息--></message>
+  <message name="IDS_ACCOUNT_MANAGER_HAVE_NO_ACCOUNTS_IMPLY_TEXT" desc="the text label of account manager have no accounts imply text">imply text of you have no accounts<!--没有账户登录时，账户管理窗口的提示信息--></message>
+  <message name="IDS_ACCOUNT_MANAGER_TITLE" desc="the text label of account manager's title">Account Manager Title<!--账户管理窗口的标题--></message>
+  <message name="IDS_SECOND_VERIFY_CONFIRM_TEXT" desc="the text label of second verify confirm text">second verify confirm<!--二次验证时的确认按钮文字--></message>
+  <message name="IDS_AUTO_LOGIN_SECOND_VERIFY_WINDOW_TITLE" desc="the text label of auto login's second verify window title">Auto Login Failed -- Need Second Verify<!--自动登录需要二次验证的提示窗口标题--></message>
+  <message name="IDS_NORMAL_LOGIN_SECOND_VERIFY_WINDOW_TITLE" desc="the text label of normal login's second verify window title">Kindly Reminder <!--普通登录需要二次验证的提示窗口标题--></message>
+  <message name="IDS_VERIFY_PICCODE_IMPLY_TEXT" desc="the Piccode imply text of login's second verify window title">your action is abnormly , you need input verfy code<!--动态验证码的提示文字--></message>
+  <message name="IDS_VERIFY_PHONE_VERFIY_IMPLY_TEXT" desc="the phone verfiy imply text of login's second verify window title">your account need answser the phone verfiy<!--二次验证时，回答手机令牌的提示--></message>
+  <message name="IDS_VERIFY_SHORT_MESSAGE_VERFIY_IMPLY_TEXT" desc="the short message imply text of login's second verify window title">your account need short message verfiy<!--二次验证时，回答短信验证码的提示--></message>
+  <message name="IDS_VERIFY_PICCODE_ANSWER_IMPLY_TEXT" desc="the piccode answer imply text of login's second verify window title">Input Piccode<!--二次验证时，输入验证码的提示文字--></message>
+  <message name="IDS_VERIFY_SEC_QUESTION_ANSWER_IMPLY_TEXT" desc="the sec question answer imply text of login's second verify window title">Input Answer<!--二次验证时，输入安全问题答案的提示文字--></message>
+  <message name="IDS_VERIFY_PHONE_ANSWER_IMPLY_TEXT" desc="the phone answer imply text of login's second verify window title">Input Phone Answer<!--二次验证时，输入手机令牌的提示文字--></message>
+  <message name="IDS_VERIFY_SHORT_MESSAGE_ANSWER_IMPLY_TEXT" desc="the short message answer imply text of login's second verify window title">Input Short Message Answer<!--二次验证时，输入短信验证码的提示文字--></message>
+  <message name="IDS_VERIFY_HARDWARE_ANSWER_IMPLY_TEXT" desc="the hardware answer imply text of login's second verify window title">Input Hardware Answer<!--二次验证时，输入硬件令牌的提示文字--></message>
+  <message name="IDS_VERIFY_PICCODE_ANSWER_ERROR_TEXT" desc="the piccode answer error imply text of login's second verify window title">Piccode Error<!--二次验证时，输入验证码错误--></message>
+  <message name="IDS_VERIFY_SEC_ANSWER_ERROR_TEXT" desc="the sec answer error imply text of login's second verify window title">Sec Answer Error<!--二次验证时，输入安全验证答案错误--></message>
+  <message name="IDS_VERIFY_PHONE_ANSWER_ERROR_TEXT" desc="the phone answer error imply text of login's second verify window title">Phone Answer Error<!--二次验证时，输入手机令牌答案错误--></message>
+  <message name="IDS_VERIFY_SHORT_MESSAGE_ANSWER_ERROR_TEXT" desc="the short message answer error imply text of login's second verify window title">Short Message Answer Error<!--二次验证时，输入短信验证码答案错误--></message>
+  <message name="IDS_VERIFY_HARDWARE_ANSWER_ERROR_TEXT" desc="the hardware error imply text of login's second verify window title">Hardware Answer Error<!--二次验证时，输入硬件令牌答案错误--></message>
+  <message name="IDS_VERIFY_CHANGE_PICCODE_TEXT" desc="the change piccode imply text of login's second verify window title">piccode is not clear, change another piccode<!--二次验证时，换一张验证码图片--></message>
+  <message name="IDS_SECOND_VERIFY_CANCEL_TEXT" desc="the text label of second verify confirm text">second verify cancel<!--取消二次验证按钮图片--></message>
+  <message name="IDS_VERIFY_SEC_QUESTION_IMPLY_TEXT" desc="the sec imply text of login's second verify window title">Sec Imply<!--安全问题提示文字--></message>
+  <message name="IDS_VERIFY_HARDWARE_VERFIY_IMPLY_TEXT" desc="the hardware text of login's second verify window title">Hardware Imply<!--硬件提示文字--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_AVATAR" desc="The text used for avatar view accessible name ">
+avatar menu button view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_RELOAD" desc="The text used for reload button view accessible name ">
+reload button view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_RECOVERY" desc="The text used for recovery button view accessible name ">
+recovery button view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_ADDRESS" desc="The text used for address view accessible name ">
+address view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_SEARCH" desc="The text used for search view accessible name ">
+search view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_MENU_LOGIN" desc="The text used for menu login view accessible name">
+menu login button view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_LOGIN" desc="The text used for login view accessible name">
+login button view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_USER" desc="The text used for user view accessible name">
+user edit view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_PASSWD" desc="The text used for passwd view accessible name">
+passwd edit view accessible name 
+<!--add by hzz--></message>
+  <message name="IDS_VIEW_ACCESSIBLE_NAME_MENU_LOGOUT" desc="The text used for menu logout view accessible name ">
+menu logout button view accessible name
+<!--add by hzz--></message>
+  <!--YY Browser Begin Add by Von @2014-08-20 11:46-->
+  <message name="IDS_SECURITY_BUBBLE_MSG_FRAUD" desc="text show in the page security info bubble saying current page is fraud.">
+    Might steal your persional infomation or money
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_DANGER" desc="text show in the page security info bubble saying current page is risky.">
+    Might steal your persional infomation or money
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_YYPHISHING" desc="text show in the page security info bubble saying current page is a phising site for yy account.">
+    Might steal your YY account.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_MALWARE" desc="text show in the page security info bubble saying current page is malware.">
+    Might steal your persional infomation or money<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_BLACKLINK" desc="text show in the page security info bubble saying current page is a black link.">
+    Will change your home page silently<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_MALLINK" desc="text show in the page security info bubble saying current page is a mal-function link.">
+    Will expose your system to attack.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_YY_SUSPICIOUS" desc="text show in the page security info bubble saying current page is a suspicious link.">
+    Will expose your system to unpredictable attack.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_RISKY" desc="text show in the page security info bubble saying current page is a suspicious link.">
+    Will expose your system to unpredictable attack.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_RISK" desc="text show in the page security info bubble saying current page is a suspicious link.">
+    Will expose your system to unpredictable attack.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_COUNTERFEITING" desc="text show in the page security info bubble saying current page is a counterfeiting link.">
+    Might steal your personal infomation.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_HACKED" desc="text show in the page security info bubble saying current page is a hacked link.">
+    Might steal your personal infomation.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_PORN" desc="text show in the page security info bubble saying current page is a porn link.">
+    It's a porn site.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_NOQUALIFICATION" desc="text show in the page security info bubble saying current page has no qualification info.">
+    No qualification info.<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_GAMBLING" desc="text show in the page security info bubble saying current page is a gambling page.">
+    Gambling site<!---->
+  </message>
+  <message name="IDS_SECURITY_BUBBLE_MSG_VIOLATION" desc="text show in the page security info bubble saying current page has violation content.">
+    Current page has violation content.<!---->
+  </message>
+  <message name="IDS_OEM_SWITCH_INFOBAR_MESSAGE_SUBACCOUNT" desc="the message in infobar when the current tab is subaccount from the oem">
+    Prompt the user  how to use the subaccount<!--oem版本转化小号tab里提示如何用小号-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_DANGER" desc="text show in the warning page saying current page is danger.">
+    current url is dangerous and please close it<!--金山危险-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_YYPHISHING" desc="text show in the warning page saying current page is yy pushing.">
+    current url is yy pushing and Might steal your YY account<!--YY钓鱼-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_RISKY" desc="text show in the warning page saying current page is risky.">
+    current url is risky and it may cause unpredictable risks<!--金山可疑-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_YY_SUSPICIOUS" desc="text show in the warning page saying current page is YY suspicious.">
+    current url is YY suspicious and it may cause unpredictable risks<!--YY可疑-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_MALWARE" desc="text show in the warning page saying current page is malware.">
+    current url is malware and it may steal your persional infomation<!--挂马-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_MALLINK" desc="text show in the warning page saying current page is mallink.">
+    current url is mallink it may cause unpredictable risks<!--恶意链接-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_VIOLATION" desc="text show in the warning page saying current page is violation.">
+    current page has violation content<!--违规-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_GAMBLING" desc="text show in the warning page saying current page is gambling.">
+    current page is a gambling site<!--博彩-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_COUNTERFEITING" desc="text show in the warning page saying current page is counterfeiting.">
+    current url is counterfeiting it may steal your persional infomation<!--假冒-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_NOQUALIFICATION" desc="text show in the warning page saying current page is no qualification.">
+    current page has no qualification info<!--无法定资质或许可-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_FRAUD" desc="text show in the warning page saying current page is fraud.">
+    current url is fraud might steal your persional infomation or money<!--欺诈-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_BLACKLINK" desc="text show in the warning page saying current page is blacklink.">
+    current url is blacklink it might change your home page silently<!--恶意纂改-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_RISK" desc="text show in the warning page saying current page is risk.">
+    current url is risk it might cause unpredictable risks<!--风险-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_PORN" desc="text show in the warning page saying current page is porn.">
+    current url is porn it might cause unpredictable risks<!--色情-->
+  </message>
+  <message name="IDS_SECURITY_WARNING_PAGE_MSG_HACKED" desc="text show in the warning page saying current page is hacked.">
+    current url is hacked it might steal your persional infomation<!--被黑-->
+  </message>
+  <!--扩展id、扩展crx文件名称、要不要显示、是否允许卸载(json格式) by cc @ 2014.06.25-->
+  <message name="IDS_INNER_EXTENSION_ID_NAME_MAP_LIST " desc="the id list of component extension">
+    [
+    {"id":"nehcpfflaflchnfaajoiggmffgjeaefc","name":"yygame_extension.crx","show":"true","uninstall":"false","version":"1.0.11"}
+    ]
+  </message>
+  <message name="IDS_OEM_INFOBAR_MESSAGE_BBS" desc="the message in oem infobar used to guide the user ">
+    Open the BBS site, please experiment the YY Explorer
+    <!--oem版本下引导用户使用正式版浏览器 by cc-->
+  </message>
+  <message name="IDS_OEM_INFOBAR_MESSAGE_ADULT_SITE" desc="the message in oem infobar used to guide the user when open the adult site">
+    Open the adult site, please experiment the incognito mode in YY Explorer
+    <!--oem版本下引导用户使用正式版浏览器 by cc-->
+  </message>
+  <message name="IDS_OEM_INFOBAR_MESSAGE_GAME_IN_WHITE_LIST" desc="the message in oem infobar used to guide the user when open the game site ">
+    Open the game, please experiment the subaccount mode in YY Explorer
+    <!--oem版本下引导用户使用正式版浏览器 by cc-->
+  </message>
+  <message name="IDS_OEM_INFOBAR_CONFIRM" desc="Used for Confirm on buttons in oem infobar">
+    start immediately and experience
+    <!--引导信息条中的信息 by cc-->
+  </message>
+  <!--YY Browser End-->
+  <message name="IDS_OEM_INFOBAR_NO_REMIND " desc="Used for Remind on buttons in oem infobar ">
+No longer remind
+<!--引导信息条中的按钮上的标题 by cc--></message>
+  <message name="IDS_BROWSER_COMPONENT_DOWNLOAD_TITLE" desc="about browser component download exit tips">
+browser component download exit tips
+<!--浏览器组件关闭提醒文字.add by hzz--></message>
+  <message name="IDS_BROWSER_COMPONENT_DOWNLOAD_CONTENT" desc="about browser component download contents">
+browser component download content
+<!--浏览器组件下载退出提示界面文字.add by hzz--></message>
+  <message name="IDS_OEM_PUSHINFO_WINDOW_TITLE" desc="the title of balloon widget in pushinfo_exhibition_service">
+    The notifications<!--推送框标题 by cc-->
+  </message>
+  <!-- Add by Von @2014-08-30 17:05-->
+  <message name="IDS_TAB_CXMENU_DUPLICATE_AS_SUBACCOUNT" desc="The label of the 'Duplicate as sub-account' Tab context menu item.">
+    Duplicate as sub-account
+  </message>
+  <!-- Add by Von @2014-09-01 16:58-->
+  <message name="IDS_TOOLTIP_OEM_TO_STANDARD_MODE" desc="tooltip for toggleing oem insall browser simplified mode to standard mode">
+    To OEM standard mode
+  </message>
+  <message name="IDS_TOOLTIP_OEM_TO_SIMPLIFIED_MODE" desc="tooltip for toggleing oem insall browser simplified mode to standard mode">
+    To OEM simplified mode
+  </message>
+  <!-- Add by Von End-->
+  <message name="IDS_SECURITY_SITE_APPEAL" desc="Appealling this web site ">
+    Appeal
+  <!--by kxy 申斥网站--></message>
+  <message name="IDS_DOWNLOAD_FILE_NAME" desc="The text used for download manager's file item's lable ">
+FileName
+<!--下载管理中，文件名的中文label文字--></message>
+  <message name="IDS_DOWNLOAD_LOCATION" desc="The text used for download manager's download item's lable ">
+Download To
+<!--下载管理中，下载目录的中文label文字--></message>
+  <message name="IDS_DOWNLOAD_CANCEL" desc="The text used for cancel download manager's lable ">
+Cancel Download
+<!--下载管理中，取消下载的按钮文字--></message>
+  <message name="IDS_DOWNLOAD_OPEN" desc="The text used for open download manager's lable ">
+Open Download File
+<!--下载管理中，打开下载的按钮文字--></message>
+  <message name="IDS_DOWNLOAD_DOWNLOAD_ONLY" desc="The text used for download manager's download button's text ">
+Download File
+<!--下载管理中，下载按钮的文字--></message>
+  <message name="IDS_DOWNLOAD_XUNLEI_TOOL" desc="The text used for download manager's xunlei download tool text ">
+Used Xunlei To Download File
+<!--下载管理中，使用迅雷下载工具的文字--></message>
+  <message name="IDS_DOWNLOAD_TITLE_TEXT" desc="The text used for download manager's title ">
+Used For Download Manager's title
+<!--下载管理窗口的标题文字--></message>
+  <message name="IDS_DOWNLOAD_FILESZIE_INVALID" desc="The text used for download manager's invalid file size ">
+Unknown File Size
+<!--下载管理中，未知的文件大小--></message>
+  <message name="IDS_DOWNLOAD_REST_SPACE" desc="The text used for download rest space ">
+Rest Space
+<!--下载管理中剩余大小--></message>
+  <message name="IDS_DOWNLOAD_WARNING_SPACE_NOT_ENOUGH" desc="The text used for imply download manager have not enough space ">
+Disk Have No Enough Space
+<!--下载管理提示没有足够空间--></message>
+  <message name="IDS_DOWNLOAD_WARNING_LOCATION_INVALID" desc="The text used for imply download manager location is invalid ">
+Location Is Invalid
+<!--下载管理器提示下载路径不合法--></message>
+  <message name="IDS_DOWNLOAD_WARNING_LOCATION_BLANK" desc="The text used for imply download manager location is blank">
+Location Is Blank
+<!--下载管理器提示下载路径为空--></message>
+  <message name="IDS_DOWNLOAD_DOWNLOADTOOL_START_FAIL_TITLE" desc="The text used for imply download tool start fail title ">
+Start Up Fail
+<!--下载工具启动失败的标题文字--></message>
+  <message name="IDS_DOWNLOAD_DOWNLOADTOOL_START_FAIL_CONTENT_XUNLEI" desc="The text used for imply download tool start fail title for XunLei">
+Xunlei's Location Is Changed, Please Install Xunlei Again. 
+<!--迅雷下载工具启动失败的内容文字文字--></message>
+  <message name="IDS_REPORT_URL_SUCCESS_IMPLY" desc="The text used for imply success reporting url ">
+     Report URL success
+  <!--by kxy 举报成功--></message>
+  <message name="IDS_REPORT_URL_FAIL_IMPLY" desc="The text used for imply fail reporting url ">
+  Report URL fail
+  <!--by kxy 举报失败--></message>
+  <message name="IDS_DOWNLOAD_REST_SPACE_ERROR" desc="The text used for rest space error ">
+Rest Space Is Unknown
+<!--下载管理中剩余空间大小出错时的提示文字--></message>
+  <message name="IDS_OTHER_SETTINGS_TITLE" desc="Title of the Other Settings tab ">
+Other Settings Tab
+<!--更多设置页的title by cc @ 2014.09.26--></message>
+  <message name="IDS_EXTENSIONS_TITLE" desc="Title of the Extensions tab ">
+Extensions Tab
+<!--扩展程序页的title by cc @ 2014.09.26--></message>
+  <message name="IDS_MOUSE_GESTURE_SETTINGS_TITLE" desc="Title of the mouse gesture settings tab ">
+Mouse Gesture Settings Tab
+<!--鼠标手势页的title by cc @ 2014.09.26--></message>
+  <message name="IDS_SHORTCUT_SETTINGS_TITLE" desc="Title of the shortcut settings tab ">
+Shortcut Settings Tab
+<!--快捷键页的title by cc @ 2014.09.26--></message>
+  <message name="IDS_ADB_SETTINGS_TITLE" desc="Title of the Adb settings tab ">
+Adb Settings Tab
+<!--广告过滤页的title by cc @ 2014.09.26--></message>
+  <message name="IDS_USER_WHITELIST_TAB_TITLE" desc="Title of the user whitelist tab ">
+User Whitelist Tab
+<!--信任网站页的title by cc @ 2014.09.26--></message>
+  <!--“正在登陆”状态描述 Add by ybz @ 2014-10-10-->
+  <message name="IDS_PROMPT_STATE_OF_LOGINING" desc="The prompt which the user is logining yye. ">
+    State of logining of your YY Account
+  </message>
+  <message name="IDS_PAGE_SECURITY_INFO_BUBBLE_NAME" desc="The name of page_security_info_bubble">
+Page Security Info Bubble Name
+<!--add by wyk--></message>
+  <message name="IDS_SECURITY_TRUST_BUTTON_NAME" desc="security trust button name">
+Security Trust Button Name
+<!--by wyk--></message>
+  <message name="IDS_FLASH_RECORD_PROGRESS_TIPS" desc="The text of the video record progress bar">
+    already record
+  </message>
+  <message name="IDS_FLASH_SAVE_AT_ABORT" desc="The text of the video record abort">
+    will you save current record data ?
+  </message>
+  <message name="IDS_SAVE_OR_SHARE" desc="The text of the video record share window">
+    Save or share
+  </message>
+  <message name="IDS_PHOTO_EDITOR_CONTROL_DRAG" desc="The text used for imply photo editor select total image ">
+Drag Total Editor Image
+<!--拖动整个编辑图片--></message>
+  <message name="IDS_PHOTO_EDITOR_TIPS_SHARE_DOUBAN" desc="The text used for imply browser's type ">
+Share to DouBan
+<!----></message>
+  <message name="IDS_PHOTO_EDITOR_TIPS_SHARE_QQZONE" desc="The text used for imply browser's type ">
+Share to QQZONE
+<!----></message>
+  <message name="IDS_PHOTO_EDITOR_TIPS_SHARE_SINA_WEIBO" desc="The text used for imply browser's type ">
+Share to SINA WEIBO
+<!----></message>
+  <message name="IDS_PHOTO_EDITOR_TIPS_SHARE_BAIDU_TIEBA" desc="The text used for imply browser's type ">
+Share to TieBa
+<!----></message>
+  <message name="IDS_PHOTO_EDITOR_QQSHARE_COMPLET" desc="The text used for imply qq share complete  ">
+picture has copied in clipbord,\nyou can past to your qq friends.
+<!----></message>
+  <message name="IDS_USER_GET_IT" desc="The text used for imply photo editor share to qq friends's link string ">
+I Get It
+<!--gif分享给QQ好友时，完成时用户提示窗口中链接文字--></message>
+  <message name="IDS_SHARE_QQ_FRIENDS" desc="The text used for imply photo editor share to qq friends's tool tips ">
+Share to QQ Friends
+<!--gif分享给QQ好友时，完成时用户提示窗口中链接文字--></message>
+  <message name="IDS_SAVE_AND_COMPLETE" desc="The text used for imply photo editor save and complete">
+Save and\n Complete
+<!--gif保存完成的提示--></message>
+  <message name="IDS_DRAG_SELECT_SLIDER" desc="The text used for imply to how to use photo editor's slider">
+Drag and Select Slider
+<!--用于提示用户怎么使用图片编辑器的时间裁剪滑块--></message>
+  <message name="IDS_CLIP_GIF" desc="The text used for imply photo editor's clip tool tips">
+Clip Gif
+<!--用于提示用户裁剪按钮的提示信息--></message>
+  <message name="IDS_SAVE_AND_SHARE" desc="The text used for imply photo editor share control's title">
+Save and\n Share
+<!----></message>
+  <message name="IDS_SELECTION_STORE_TO_NOTE_MENU_BTN" desc="text shown in right click menu when user select text or picture in webpage. ">
+    Store to Note
+    <!--added by kxy @ 2014.10.26-->
+  </message>
+  <message name="IDS_SAVE_TO_YYNOTE" desc="The text used for imply user save to yynote">
+Tips: complete the gif, you can save to  yynote
+<!--提示用户，Gif图会保存到YY笔记--></message>
+  <message name="IDS_YYNOTE" desc="The text used for imply browser's type ">
+YYNote
+<!--云笔记的描述--></message>
+  <message name="IDS_COLLET_TO_EVERNOTE" desc="The text used for collect to evernote">
+The text used for collect to evernote
+<!--by kxy  收藏到印象笔记--></message>
+  <message name="IDS_NOTE_WEB_PAGE" desc="The text used for note to store web page ">
+Store Web Page 
+<!--by kxy 收藏网页--></message>
+  <message name="IDS_NOTE_WEB_ARTICLE" desc="The text used for note to store web article ">
+Store Web Article
+<!--//by kxy 收藏正文内容--></message>
+  <message name="IDS_NOTE_WEB_FRAGMENT" desc="The text used for not to store web fragment ">
+Store Web Fragment
+<!--//by kxy 收藏该片段--></message>
+  <message name="IDS_YYNOTE_WONDERFUL_PICTURES" desc="The text used for wonderful_pictures">
+Wonderful Pictures
+<!--YYNote 入口文字--></message>
+  <message name="IDS_EVERNOTE" desc="The text used for evernote">
+EverNote
+<!--印象笔记的 入口文字--></message>
+  <message name="IDS_MY_SAVE_CONTENT" desc="The text used for saved content in bookmark_menu ">
+Saved Content
+<!----></message>
+  <message name="IDS_MY_SAVE_BOOKMARK" desc="The text used for saved bookmark in bookmark_menu ">
+Saved  Bookmark
+<!----></message>
+  <message name="IDS_START_MENU_EVERNOTE_MANAGER" desc="The text used for start menu evernote manager ">
+Evernote Manager
+<!----></message>
+  <message name="IDS_FLASH_RECORD_BUBBLE_TEXT" desc="The text used as tips in bubble for flash record ">
+flash record here!!
+</message>
+  <message name="IDS_FLASH_RECORD_BUBBLE_BUTTON" desc="The text used as tips in bubble button for flash record ">
+I know flash record here!!
+</message>
+  <message name="IDS_HIGH_DEFINITION" desc="The text used for imply photo editor high definition option ">
+High Definition
+<!--视频涂鸦高清保存选项-->
+</message>
+  <message name="IDS_STANDARD" desc="The text used for imply photo editor standard definition option ">
+Standard Definition
+<!--视频涂鸦标清保存选项--></message>
+  <message name="IDS_DEFAULT" desc="The text used for imply photo editor normal option ">
+Default definition
+<!--视频涂鸦高清保存选项--></message>
+  <message name="IDS_GIF_UPLOAD_FAILED_IMPLY" desc="The text used for imply browser's type ">
+Gif upload fail,we have save in our location
+<!----></message>
+  <message name="IDS_CHECK_GIF_IN_FILE" desc="The text used for imply check gif in file ">
+Check gif in file
+<!--用于提示在本地文件中查看gif--></message>
+  <message name="IDS_OTHER_MENU" desc="The text used for other submenu ">
+Other
+<!--//by kxy 其它--></message>
+  <message name="IDS_SELECT_CACHE_DIR" desc="The text used for select cache directory ">
+Select cache directory
+<!--add by liubing--></message>
+  <message name="IDS_CACHE_DIR_NO_CHANGE" desc="The text used for telling the user: the directory chosen is just the cache directory currently used. ">
+The directory chosen is same as the cache directory, no modification needed.
+<!--add by liubing--></message>
+  <message name="IDS_CONFIRM_RESTART_AFTER_SELECT_CACHE_DIR" desc="The text used for ask user to confirm restart. ">
+The cache directory would be used after restart, do you want to do it right now? 
+<!--add by liubing--></message>
+  <message name="IDS_EVERNOTE_INFOBAR_MESSAGE_TEXT" desc="The text used for evernote infobar message text ">
+evernote infobar message text
+<!--add by hzz 2014-11-08--></message>
+  <message name="IDS_EVERNOTE_INFOBAR_BUTTON_LABEL_INTERNATIONAL" desc="The text used for evernote infobar button label international">
+ evernote infobar button label international
+<!--add by hzz 2014-11-08--></message>
+  <message name="IDS_EVERNOTE_INFOBAR_BUTTON_LABEL_CHINA" desc="The text used for evernote infobar button label china">
+ evernote infobar button label china
+<!--add by hzz 2014-11-08--></message>
+  <message name="IDS_SAVE_TO_EVERNOTE" desc="The text used for saved to ever-note">
+Saved to EverNote
+<!--add by ybz 2014-11-10 收藏到印象笔记--></message>
+  <message name="IDS_NOTEIMPLY_SAVE_SUCCESS" desc="The text used for imply note save success ">
+Save Success
+<!--//by kxy 精彩笔记--></message>
+  <message name="IDS_NOTEIMPLY_SAVING" desc="The text used for imply note saving">
+Saving
+<!--//by kxy 精彩笔记--></message>
+  <message name="IDS_NOTEIMPLY_SAVE_FAIL" desc="The text used for imply note Save Fail,Try Later. ">
+Save Fail,Try Later.
+<!--//by kxy 精彩笔记--></message>
+  <message name="IDS_NOTEIMPLY_RELEASE_SUCCESS" desc="The text used for imply note Release Authorization Success ">
+Release Authorization Success
+<!--//by kxy 精彩笔记--></message>
+  <message name="IDS_NOTEIMPLY_RELEASE_FAIL" desc="The text used for imply note Release Authorization Fail, Try Later. ">
+Release Authorization Fail, Try Later.
+<!--//by kxy 精彩笔记--></message>
+  <message name="IDS_REVERT" desc="The text used for common use">
+  Revert
+</message>
+  <message name="IDS_PHOTO_EDIT_CLIP_TIP" desc="The text used for common use">
+  Drag the blue rect to resize the clip rect.
+</message>
+  <message name="IDS_PHOTO_EDIT_BEGIN_CLIP" desc="The text used for photo edit use">
+  Begin Clip
+</message>
+  <message name="IDS_PHOTO_EDIT_CANCEL_CLIP" desc="The text used for photo edit use">
+  Cancel Clip
+</message>
+  <message name="IDS_PHOTO_EDIT_YOUR_NAME" desc="The text used for photo edit use">
+  Your Name:
+</message>
+  <message name="IDS_PHOTO_EDIT_CHAR_LIMIT_TIP" desc="The text used for photo edit use">
+ Most ten chars
+</message>
+  <message name="IDS_PHOTO_EDIT_WATER_MARK_TIP" desc="The text used for photo edit when water mark can't add">
+ Clip rect is tool small to hold water mark.
+</message>
+  <message name="IDS_SAVE_TO_CLOUD" desc="The text used for photo editor imply save gif to cloud">
+Save to Cloud
+<!--gif录制中，保存到精彩图库的提示文字--></message>
+  <message name="IDS_NOTEIMPLY_CANT_FETCH_ARTICLE " desc="The text used for yynote to imply can't fetch article ">
+Can't Fetch Article
+<!--//by kxy--></message>
+  <message name="IDS_OTHER_ACCOUNT_LOGIN" desc="The text used for imply other account login ">
+Use Third Account to Login
+<!--提示使用第三方账号登录--></message>
+  <message name="IDS_NOTEIMPLY_LOGINING" desc="The text used for imply note logining when save to yy-note ">
+Logining, Please Wait for a Moment
+<!--by cc 收藏到精彩笔记时正在登陆的提示文案--></message>
+  <message name="IDS_VIDEO_PLUGIN_TITLE" desc="The text used for imply video plugin install title ">
+discover a video plugin without advertisement
+<!--by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_TO_INSTALL" desc="The text used for to install the video plugin">
+to install the video plugin
+<!--//by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_INSTALLING" desc="The text used for installing the video plugin">
+installing the video plugin
+<!--//by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_NO_MORE" desc="The text used for no more pop up this tips">
+no more pop up this tips
+<!--//by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_NOTICE" desc="The text used for notice that this video plugin is only available for this web site">
+notice that this video plugin is only available for this web site :<ph name="WEB_SITE_NAME">$1</ph> 
+<!--//by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_SIZE_LABEL" desc="The text used for this plugin is small size">
+this plugin is small size: <ph name="SIZE">$1</ph> 
+  <!--//by kxy--></message>
+  <message name="IDS_VIDEO_PLUGIN_INSTALL_COMPELETE" desc="The text used for imply installing video compelete">
+Install Compeleted
+<!--//by kxy--></message>
+  <message name="IDS_SHOW_MORE_MENU_ITEM" desc="In Multi Column Menu, the description of the last visual submenu item">
+  Show More Menu Item
+</message>
+  <message name="IDS_SHOW_MORE_MENU_ITEM_TIP" desc="In Multi Column Menu, the description of the last visual submenu item tip">
+  Show More Menu Item Tip
+</message>
+  <!-- YY Browser End-->
+  <message name="IDS_CONFIGURE_DIALOG_DEFAULT_TITLE" desc="The text used for imply configure dialog tile ">
+Close Imply
+<!--用于配置对话框的默认标题--></message>
+  <message name="IDS_CONFIGURE_DIALOG_DEFAULT_CONFIRM_TEXT" desc="The text used for imply configure dialog defualt confirm text  ">
+still close
+<!--用于配置对话框的默认确认文字--></message>
+  <message name="IDS_CONFIGURE_DIALOG_DEFAULT_CANCEL_TEXT" desc="The text used for imply configure dialog defualt cancel text  ">
+continue use
+<!--用于配置对话框的默认取消文字--></message>
+  <message name="IDS_CONFIGURE_DIALOG_DEFAULT_MAIN_TEXT" desc="The text used for imply configure dialog main text  ">
+yyexploer help you scan web_page, are you still close!
+<!--用于配置对话框的主要提示文字--></message>
+  <message name="IDS_CONFIGURE_DIALOG_DEFAULT_VICE_TEXT" desc="The text used for imply configure dialog vice text  ">
+see viedo without advertisement,make you feel cool!
+<!--用于配置对话框的副提示文字--></message>
+  <message name="IDS_TAB_MENU_REFRESH" desc="The text used for tab menu refresh ">
+refresh page
+<!--用于标签菜单的刷新文字--></message>
+  <message name="IDS_CHROME_SET_DEFAULT_BROWSER" desc="The text used for imply browser's type ">
+Set Default Browser
+<!--用于设置默认浏览器infobar的文字--></message>
+  <message name="IDS_CHROME_HAS_SET_DEFAULT_BROWSER" desc="The text used for imply browser has been setted as default browser ">
+has set default browser
+<!--用于已经设置为默认浏览器的提示--></message>
+  <message name="IDS_CLEAR_HISTORY_ITEM" desc="The text used for clear history record items  ">
+clear history record
+<!--用于下拉列表中删除历史记录的文字--></message>
+  <message name="IDS_HAVE_NO_HISTORY" desc="The text used for imply have no history ">
+have no history
+<!--用于标注没有输入历史记录--></message>
+  <message name="IDS_CONFIGURE_DIALOG_NOT_PROMPT" desc="The text used for imply browser's type ">
+DON'T Prompt
+<!--不再提示的check_box文字--></message>
+  <message name="IDS_TAMPER_REMIND_ALLOW" desc=" tamper remind allow">
+allow tamper default browser
+<!----></message>
+  <message name="IDS_TAMPER_REMIND_PREVENT" desc=" tamper remind prevent">
+prevent tamper default browser
+<!----></message>
+  <message name="IDS_TAMPER_REMIND_INCREASE_COMPUTER_POISONING" desc="increase computer poisoning ">
+tamper default browser increase computer poisoning
+<!----></message>
+  <message name="IDS_TAMPER_REMIND_CHEAT_YY_CHARGE" desc="cheat yy charge">
+tamper default browser cheat yy charge
+<!----></message>
+  <message name="IDS_BOOKMARK_BAR_IMPORT_LINK_NEW" desc="The text used for bookmark bar import bookmark">
+pressed and import bookmark
+<!--用于书签栏导入收藏的链接文字--></message>
+  <message name="IDS_SIGIN_IMPLY" desc="The text used for browser's sign tips ">
+sigin every day
+<!--开始菜单中，天天签到的提示tips--></message>
+  <message name="IDS_TASK_IMPLY" desc="The text used for browser's TASK tips ">
+do task
+<!--开始菜单中，做任务领奖的提示tips--></message>
+  <message name="IDS_ADV_VIDEO_HOLD" desc="The text used for imply video adv hold ">
+video adv have been holded
+<!--用于拦截bubble 广告拦截--></message>
+  <message name="IDS_ADV_HOLD" desc="The text used for imply  adv hold ">
+have been holded
+<!--广告拦截的文字--></message>
+  <message name="IDS_ADV_HAVE_HOLD" desc="The text used for imply  adv hold ">
+you have start up adv hold 
+<!--广告拦截的文字--></message>
+  <message name="IDS_ADV_VIDEO_TAIL" desc="The text used for imply  adv hold ">
+second video adv
+<!--视频广告拦截的文字--></message>
+  <message name="IDS_ADV_TAIL" desc="The text used for imply  adv hold ">
+second page adv
+<!--视频广告拦截的文字--></message>
+  <message name="IDS_ADV_VIDEO_PRAISE" desc="The text used for imply browser's type ">
+I want to praise
+<!----></message>
+  <message name="IDS_ADV_VIDEO_PRAISEED" desc="The text used for imply browser's type ">
+I have praised
+<!----></message>
+  <message name="IDS_XUNLEI_VIDEO" desc="The text used for video link name ">
+xunlei video
+<!----></message>
+  <message name="IDS_QQ_VIDEO" desc="The text used for QQ video link name ">
+QQ video
+<!----></message>
+  <message name="IDS_YOUKU_VIDEO" desc="The text used for YOUKU video link name ">
+youkuvideo
+<!----></message>
+  <message name="IDS_TUDOU_VIDEO" desc="The text used for TUDOU video link name ">
+tudou video
+<!----></message>
+  <message name="IDS_CANCEL_ADV_SITE" desc="The text used for adv_bubble cancel this adv site ">
+Cancel Adv this site
+<!----></message>
+</grit-part>

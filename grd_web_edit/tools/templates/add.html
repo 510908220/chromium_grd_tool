@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block body %}
+
+<script language="javascript" type="text/javascript">
+
+
+function add()
+    {
+         var translation=$('.translation').val();
+         var message=$('.message').val();
+         var comment=$('.comment').val();
+
+               $.post("add", { Action: "post", 'translation': translation ,"message":message,"comment":comment },
+               function (data, textStatus){
+
+                alert(data);
+
+               }, "text");
+    }
+
+
+</script>
+<div id="generated_resources">
+
+    <fieldset>
+      <div id="legend" class="">
+        <legend class=""></legend>
+      </div>
+
+    <div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">message节点:</label>
+          <div class="controls">
+            <div class="textarea" >
+                  <textarea type="" class="message" style="margin: 0px; height: 197px; width: 355px;" name="message">
+                   <message
+                    name="IDS_CHROME_BROWSER"
+                    desc="The text used for imply browser's type "
+                    >
+                    Chrome Browser
+                    </message>
+
+                  </textarea>
+
+            </div>
+                <div class="control-group">
+
+          <!-- Textarea -->
+          <label class="control-label">message注释:</label>
+          <div class="controls">
+            <div class="textarea">
+                  <textarea type="" class="comment" style="margin: 0px; width: 355px; height: 30px;" name="comment">
+
+                  </textarea>
+            </div>
+          </div>
+        </div>
+
+           <div class="control-group">
+          <!-- Text input-->
+          <label class="control-label" >中文描述:</label>
+          <div class="controls">
+           <textarea type="" class="translation" style="margin: 0px; height: 50px; width: 355px;" name="translation">
+            </textarea>
+          </div>
+        </div>
+          </div>
+        </div>
+
+    <div class="control-group">
+          <label class="control-label"></label>
+
+          <!-- Button -->
+          <div class="controls">
+            <button class="btn btn-success" onclick="add()">添加</button>
+          </div>
+        </div>
+
+    </fieldset>
+ <br>
+<font size="3" color="red"><label class="control-label">注意:message节点text字段以及中文描述内不可以有新的xml节点</label></font>
+</div>
+{% end %}
