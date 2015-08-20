@@ -1,0 +1,2 @@
+# chromium_grd_tool
+chromium中本地化中文资源添加工具
