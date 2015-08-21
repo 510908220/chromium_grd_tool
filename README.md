@@ -3,7 +3,7 @@ chromium中本地化中文资源添加工具
 
 #为什么会小写一个这样的小工具?
 - 比如在基于chromium浏览器上给一个控件添加一个中文:"收藏网页"，默认做法是:
-	- 打开grd文件创建一个节点,如```  <message name="IDS_NOTE_WEB_PAGE" desc="The text used for note to store web page ">
+	- 打开[grd](https://www.chromium.org/developers/design-documents/ui-localization)文件创建一个节点,如```  <message name="IDS_NOTE_WEB_PAGE" desc="The text used for note to store web page ">
 Store Web Page </message>```
 	- 根据desc，使用chromium里一个脚本计算一个id值
 	- 然后在中文对应的xtb文件添加一个节点:```<translation id="2452486033108980940">收藏网页</translation>```
